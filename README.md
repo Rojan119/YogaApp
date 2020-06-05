@@ -1,0 +1,2 @@
+# YogaApp
+YogSathi is a web application that allows one to practice yoga with an AI powered yoga assistant. The AI can see human poses with a camera and detects various body parts allowing complex operations like pose classification. With different data on various poses of ancient knowledge like Kriya Yoga, Hatha Yoga one is able to see a skeleton figure to perform those poses. It makes life more simpler and joyful. 
